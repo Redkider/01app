@@ -1,0 +1,7 @@
+{
+  "status": 0,
+ "message":[{"id":1,"imgurl":"/src/images/swipe/1.jpg"},
+          {"id":2,"imgurl":"/src/images/swipe/2.jpg"},
+          {"id":3,"imgurl":"/src/images/swipe/3.jpg"}
+         ]
+ }
